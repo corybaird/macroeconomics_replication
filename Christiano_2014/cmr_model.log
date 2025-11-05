@@ -1,6 +1,0 @@
-Starting preprocessing of the model file ...
-
-Macro-processing error: backtrace...
-- Unknown variable cee
-- binary operation: "cmr_model.mod" line 38, col 8-16
-- @#if: "cmr_model.mod" line 38, col 1 to line 43, col 10
