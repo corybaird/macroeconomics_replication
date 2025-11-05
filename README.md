@@ -37,3 +37,10 @@ Repository containing data, presentation material, and replication for macroecon
     - Swanson, Eric T., and Vishuddhi Jayawickrema. 2024. “Speeches by the Fed Chair Are More Important Than FOMC Announcements: An Improved High-Frequency Measure of U.S. Monetary Policy Shocks.” Working Paper.
     - [Data](https://www.frbsf.org/research-and-insights/data-and-indicators/monetary-policy-surprises/)
     - This data provides updated high-frequency measures of unexpected changes in interest rates around FOMC announcements, often referred to as monetary policy surprises. The raw series is "orthogonalized" to publicly available information, yielding a cleaner measure of the new, unanticipated policy information conveyed to financial markets.
+
+### [Aruboa_Drechsel_2024](https://www.nber.org/papers/w32417)
+- Identifying Monetary Policy Shocks: A Natural Language Approach
+    - Aruoba, S. B., & Drechsel, T. (2024). Identifying monetary policy shocks: A natural language approach (No. w32417). National Bureau of Economic Research.
+    - [Data](https://econweb.umd.edu/~drechsel/files/Aruoba_Drechsel_Data.xlsx)
+    - We develop a novel method for the identification of monetary policy shocks. By applying natural language processing techniques to documents that Federal Reserve staff prepare in advance of policy decisions, we capture the Fed's information set. Using machine learning techniques, we then predict changes in the target interest rate conditional on this information set and obtain a measure of monetary policy shocks as the residual. We show that the documents' text contains essential information about the economy which is not captured by numerical forecasts that the staff include in the same documents. The dynamic responses of macro variables to our monetary policy shocks are consistent with the theoretical consensus. Shocks constructed by only controlling for the staff forecasts imply responses of macro variables at odds with theory. We directly link these differences to the information that our procedure extracts from the text over and above information captured by the forecasts.
+
