@@ -31,3 +31,9 @@ Repository containing data, presentation material, and replication for macroecon
     - [Data](https://www.federalreserve.gov/econres/feds/files/feds2024034.zip)
     - Eurodollar futures were the bedrock for constructing high-frequency series of monetary policy surprises, so their discontinuation poses a challenge for the continued empirical study of monetary policy. We propose an approach for updating the series of Gürkaynak et al. (2005) and Nakamura and Steinsson (2018) with SOFR futures in place of Eurodollar futures that is conceptually and materially consistent. We recommend using SOFR futures from January 2022 onward based on regulatory developments and trading volumes. The updated series suggest that surprises over the recent tightening cycle are larger in magnitude than those seen over the decade prior and restrictive on average.
 
+### FRBSF_2025
+- Monetary Policy Surprises
+    - Bauer, Michael D., and Eric T. Swanson. 2023. “A Reassessment of Monetary Policy Surprises and High-Frequency Identification.” NBER Macroeconomic Annual 23.
+    - Swanson, Eric T., and Vishuddhi Jayawickrema. 2024. “Speeches by the Fed Chair Are More Important Than FOMC Announcements: An Improved High-Frequency Measure of U.S. Monetary Policy Shocks.” Working Paper.
+    - [Data](https://www.frbsf.org/research-and-insights/data-and-indicators/monetary-policy-surprises/)
+    - This data provides updated high-frequency measures of unexpected changes in interest rates around FOMC announcements, often referred to as monetary policy surprises. The raw series is "orthogonalized" to publicly available information, yielding a cleaner measure of the new, unanticipated policy information conveyed to financial markets.
