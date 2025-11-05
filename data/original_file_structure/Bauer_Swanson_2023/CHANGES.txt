@@ -1,0 +1,6 @@
+
+List of changes to Replication Package:
+
+August 16, 2023: The data description in the README file for the FOMC high-frequency announcement data has been
+updated to remove specific references to sections and individuals at the Federal Reserve Board of Governors.  There
+are no other changes, and all results in the paper and online appendix are unaffected by the change.
